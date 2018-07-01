@@ -1,4 +1,4 @@
-# Projeto Steward
+# Project Steward
 
 Steward "Task Management System", the project aims to create tasks for system users. The task in turn can be a goal, notification, improvement, adaptation. All this in order to indicate and report to system users what their priorities are, their differences, their best products, your best customers, analyzing important information. We can consider that the Steward is a management system to support the decision.
 
